@@ -1,0 +1,9 @@
+{
+    "servers": [
+    
+        {
+            "name": "M custom annisette server",
+            "address": "https://anisette-v3-server-rwr5.onrender.com"
+        }
+    ]
+}
